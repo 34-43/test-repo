@@ -7,7 +7,7 @@
 과제를 위한 Github 활용 학습을 위한 리포지토리입니다.
 
 # 자기소개
-<img src='https://i.seadn.io/gae/Z9zT6W5XtFKI4QTUIYCExmcHeJdWB6_UkI1QC1s5Dz6YbxaUSPnaT4jJ-6OoG9UmuFzr6wIhhB74t6EBIDgysPTD9P2EoSb68OeBDA?auto=format&w=1000' width="100px">
+<img src='https://i.pinimg.com/originals/b9/67/d1/b967d1e281bd0aaca615e889386b0496.gif' width="100px">
 
 안녕하세요! 제 이름은 `장재혁`입니다. 학번은 `2019112034`이고, 소속은 다음과 같습니다.
 
